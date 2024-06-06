@@ -1,0 +1,7 @@
+{
+    "myname" : "name",
+    "age": "{{NULL}}",
+    "street_add": "address.street",
+    "planet":"{{string('Earth')}}",
+    "datetime":"{{now()}}"
+}
